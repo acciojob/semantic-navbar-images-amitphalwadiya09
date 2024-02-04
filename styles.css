@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+nav ul{
+	display:flex;
+	list-style:none;
+	justify-content:space-evenly;
+	background-color:rgb(74,145,151);
+	padding:20px;
+}
+.images{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+	
+}
